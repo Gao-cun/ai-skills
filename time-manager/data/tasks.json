@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "示例任务 - 可删除",
+      "description": "这是一个示例任务，用于展示任务格式",
+      "deadline": "2025-01-20",
+      "estimated_hours": 2,
+      "actual_hours": 0,
+      "priority": "medium",
+      "status": "pending",
+      "created_at": "2025-01-14 00:00:00",
+      "updated_at": "2025-01-14 00:00:00",
+      "completed_at": null,
+      "progress_notes": []
+    }
+  ]
+}
